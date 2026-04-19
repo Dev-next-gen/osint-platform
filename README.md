@@ -210,3 +210,4 @@ MIT — Léo Camus / [NextGen Labs](https://nextgen-labs.net)
 ---
 
 *Inspired by Palantir's open-source ecosystem: [gotham-platform-python](https://github.com/palantir/gotham-platform-python), [Blueprint](https://github.com/palantir/blueprint), [osdk-ts](https://github.com/palantir/osdk-ts)*
+
